@@ -1,6 +1,7 @@
 <div id="top"></div>
 <p align="center">
 <h1>Safety Fisrt</h1>
-<img src="assets/Zrzut ekranu 2022-02-17 115457">
+<img src="assets/Zrzut%20ekranu%202022-02-17%20115457.png">
+At DequsNuker, we focus on Security, that's why we have created a password system that will protect your bot!
 </p>
 
