@@ -1,4 +1,0 @@
-libary:
-colorama
-discord
-requests
