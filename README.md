@@ -1,4 +1,4 @@
-<div id="top"></div>
+<div id="top">To buy DequsNuker Pro go to https://discord.gg/gQmNVNwyZj</div>
 <p align="center">
 <h1>Safety Fisrt</h1>
 <img src="assets/Zrzut%20ekranu%202022-02-17%20115457.png">
